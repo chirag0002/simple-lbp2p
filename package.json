@@ -1,0 +1,46 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "contributors": [],
+  "scripts": {
+    "dev": "",
+    "test": ""
+  },
+  "dependencies": {
+    "@chainsafe/libp2p-noise": "^13.0.1",
+    "@chainsafe/libp2p-yamux": "^5.0.0",
+    "@libp2p/bootstrap": "^9.0.5",
+    "@libp2p/kad-dht": "^10.0.5",
+    "@libp2p/mdns": "^9.0.6",
+    "@libp2p/mplex": "^9.0.5",
+    "@libp2p/tcp": "^8.0.5",
+    "@libp2p/webrtc": "^3.1.10",
+    "@libp2p/websockets": "^7.0.5",
+    "@libp2p/webtransport": "^3.0.10",
+    "libp2p": "^0.46.8",
+    "libp2p-identify": "^0.7.6",
+    "libp2p-kad-dht": "^0.28.6",
+    "multiaddr": "^10.0.1"
+  }
+}
